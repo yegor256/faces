@@ -19,5 +19,6 @@ I'm using them in almost all my lecture notes, including:
 * [Software Quality Metrics (SQM)](https://github.com/yegor256/sqm)
 * [Pain of OOP](https://github.com/yegor256/painofoop)
 * [Software System Design](https://github.com/yegor256/ssd16)
+* [Practical Program Analysis (PPA)](https://github.com/yegor256/ppa)
 
 [submodule]: https://git-scm.com/book/en/v2/Git-Tools-Submodules
